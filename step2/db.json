@@ -1,0 +1,10 @@
+[{
+    "id": 1,
+    "message": "Hello World! This is my first Whisper. Yay! 🎉"
+}, {
+    "id": 2,
+    "message": "It is raining now... 🌧️"
+}, {
+    "id": 3,
+    "message": "I am learning Node.js and I love it! 🙌"
+}]
