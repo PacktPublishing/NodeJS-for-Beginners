@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-for-beginners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "standard": {
+    "env": [ "jest" ],
+    "ignore": [ "public/*.js" ]
+  }
+}
