@@ -1,0 +1,110 @@
+html,
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #343e8b;
+}
+
+.menu li {
+  float: right;
+  margin-right: 4%;
+  font-weight: bold;
+  line-height: 50px;
+}
+
+.menu li:last-child {
+  float: left;
+  margin-left: 4%;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+figcaption {
+  font-size: 0.8em;
+}
+h1 {
+  font-size: 2em;
+  line-height: 1.5em;
+}
+
+h2 {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+
+#whispers {
+  border-top: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+article {
+  background: #f8f6f6;
+  border: 2px solid #343e8b;
+  margin: 1.5em 10px;
+  padding: 0 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+article p {
+  display: inline;
+}
+
+article .actions {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+article .actions > button {
+  cursor: pointer;
+  margin: 3px;
+  border: none;
+  background-color: #f8f6f6;
+}
+
+.block {
+  display: block;
+  width: 60%;
+  border: none;
+  background-color: #343e8b;
+  padding: 0.5em 10px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+}
