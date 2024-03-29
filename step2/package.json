@@ -20,7 +20,7 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.9",
-    "express": "^4.18.3"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.24.1",
