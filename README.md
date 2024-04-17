@@ -61,9 +61,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products <Other books you may enjoy>
-* Node Cookbook - Fourth Edition [[Packt]](https://www.packtpub.com/product/node-cookbook-fourth-edition/9781838558758) [[Amazon]](https://www.amazon.in/dp/1838558756)
+* Node Cookbook - Fourth Edition [[Packt]](https://www.packtpub.com/product/node-cookbook-fourth-edition/9781838558758) [[Amazon]](https://www.amazon.com/dp/1838558756)
 
-* Node.js Web Development - Fifth Edition [[Packt]](https://www.packtpub.com/product/nodejs-web-development-fifth-edition/9781838987572) [[Amazon]](https://www.amazon.in/dp/1838987576)
+* Node.js Web Development - Fifth Edition [[Packt]](https://www.packtpub.com/product/nodejs-web-development-fifth-edition/9781838987572) [[Amazon]](https://www.amazon.com/dp/1838987576)
 
 ## Get to Know the Author
 **Ulises Gascon**
