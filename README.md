@@ -59,6 +59,15 @@ With the following software and hardware list you can run all code files present
 - [step5](step5/): At the end of the chapter 16
 - [step5](step6/): At the end of the chapter 17
 
+## Errata
+* Errata 1 Page: 35, 36, 44, 46, 47, 48 & 50: **Several of the links to MDN's documentation are to the Spanish version. which is "/es/"** _should be_ **"/en/" for English Translation for the websites**
+* Errata 2 Page: 28: **Exploring JavaScript documentation". "If are looking for more concise documentation, you can use W3Schools"** _should be_ **"Exploring JavaScript documentation". "If you are looking for more concise documentation, you can use W3Schools"**
+* Errata 3 Page: Preface page xviii: **"We also learn how to use te URLs to build powerful interfaces while transferring data using JSON format."** _should be_ **""We also learn how to use the URLs to build powerful interfaces while transferring data using JSON format."**
+* Errata 4 Page: 41: **"The structure is composed of the condition, followed by a question mark, ?, then the value that you want to assign if the condition is true, followed by a double colon (:), and then the value that you want to assign if the condition is false: condition ? valueIfTrue : valueIfFalse."** _should be_ **""The structure is composed of the condition, followed by a question mark, ?, then the value that you want to assign if the condition is true, followed by a colon (:), and then the value that you want to assign if the condition is false: condition ? valueIfTrue : valueIfFalse."**
+* Errata 5 Page: 42: **"The `while` statement ends with a semicolon after the closing brace (`};`)."** _should be_ **"The `while` statement should end with the closing brace without a semicolon (`}`)."**
+* Errata 6 Page: 36: **"If you need to work with dates intensively, consider using a library such as Lunox"** _should be_ **"If you need to work with dates intensively, consider using a library such as Luxon."**
+* Errata 7 Page: 33: **"JavaScript has good support for mathematical operations and dates, but sometimes it can be tricker and more limited"** _should be_ **"JavaScript has good support for mathematical operations and dates, but sometimes it can be trickier and more limited"**
+
 
 ### Related products <Other books you may enjoy>
 * Node Cookbook - Fourth Edition [[Packt]](https://www.packtpub.com/product/node-cookbook-fourth-edition/9781838558758) [[Amazon]](https://www.amazon.com/dp/1838558756)
